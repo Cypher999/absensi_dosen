@@ -1,0 +1,54 @@
+.button_edit{
+    width:45px;
+    height:45px;
+    background-image: url('edit.png');
+    background-size: contain;
+    background-repeat:no-repeat;
+}
+.button_prev{
+   width:45px;
+   height:45px;
+   background-image: url('preview.png');
+   background-size: contain;
+   background-repeat:no-repeat;
+}
+.button_print{
+	color: transparent;
+   width:45px;
+   height:45px;
+   background-image: url('print.png');
+   background-size: contain;
+   background-repeat:no-repeat;
+}
+.button_del{
+	color: transparent;
+   width:45px;
+   height:45px;
+   background-image: url('delete.png');
+   background-size: contain;
+   background-repeat:no-repeat;
+}
+.button_save{
+	color: transparent;
+   width:45px;
+   height:45px;
+   background-image: url('save.png');
+   background-size: contain;
+   background-repeat:no-repeat;
+}
+.button_add{
+	color: transparent;
+   width:45px;
+   height:45px;
+   background-image: url('add.png');
+   background-size: contain;
+   background-repeat:no-repeat;
+}
+.button_reset{
+	color: transparent;
+   width:45px;
+   height:45px;
+   background-image: url('reset.png');
+   background-size: contain;
+   background-repeat:no-repeat;
+}
